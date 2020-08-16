@@ -6,9 +6,9 @@ import {
 
 const Header = () => {
   return (
-    <header>
+    <header className="stripe">
         <nav>
-            <ul>
+            <ul class="hr">
                 <li>
                     <Link to="/">Home</Link>
                 </li>
